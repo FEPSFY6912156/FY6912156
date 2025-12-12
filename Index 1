@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ENG0018 Conference Project</title>
+
+  <style>
+    html { scroll-behavior: smooth; }
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; }
+    .wrap { max-width: 1000px; margin: 0 auto; padding: 20px; }
+    img { width: 100%; height: auto; display: block; }
+    hr { margin: 25px 0; }
+  </style>
+</head>
+
+<body>
+  <img src="WebBanner2023 (1).png" alt="University Banner">
+
+  <div class="wrap">
+    <h1><b>ENG0018 Computer Laboratory 2025/26</b></h1>
+    <h2>Student URN: 6912156</h2>
+
+    <hr>
+
+    <h2><b>Conference paper: Sky Hook</b></h2>
+
+    <hr>
+  </div>
+</body>
+</html>
